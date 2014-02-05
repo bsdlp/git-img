@@ -1,0 +1,4 @@
+import os
+
+GITIMG_PATH = '/Users/jchen/Pictures/gitimg/'
+
