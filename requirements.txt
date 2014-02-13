@@ -1,4 +1,7 @@
 GitPython==0.3.2.RC1
 async==0.6.1
 gitdb==0.5.4
+py==1.4.20
 smmap==0.8.2
+tox==1.7.0
+virtualenv==1.11.2
