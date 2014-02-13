@@ -2,10 +2,9 @@
 
 ## Requirements
 
-This requires libgit2 the python wrapper, pygit2:
+This requires GitPython:
 
 ```
-brew install libgit2
 virtualenv env/
 source env/bin/activate
 pip install -r requirements.txt

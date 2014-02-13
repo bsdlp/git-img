@@ -1,1 +1,4 @@
-pygit2==0.20.2
+GitPython==0.3.2.RC1
+async==0.6.1
+gitdb==0.5.4
+smmap==0.8.2
