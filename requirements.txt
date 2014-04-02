@@ -3,9 +3,9 @@ async==0.6.1
 flake8==2.1.0
 gitdb==0.5.4
 mccabe==0.2.1
-pep8==1.4.6
+pep8==1.5.1
 py==1.4.20
-pyflakes==0.7.3
+pyflakes==0.8.1
 smmap==0.8.2
-tox==1.7.0
-virtualenv==1.11.2
+tox==1.7.1
+virtualenv==1.11.4
